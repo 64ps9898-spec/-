@@ -1,0 +1,33 @@
+{
+  "version": "0.1.0",
+  "unit": "mm",
+  "parts": [
+    {
+      "id": "demo-top",
+      "name": "作業台天板",
+      "materialId": "plywood",
+      "sizeMm": { "x": 1200, "y": 24, "z": 600 },
+      "positionMm": { "x": 0, "y": 750, "z": 0 },
+      "rotationDeg": { "x": 0, "y": 0, "z": 0 },
+      "quantity": 1
+    },
+    {
+      "id": "demo-leg-1",
+      "name": "脚1",
+      "materialId": "2x4",
+      "sizeMm": { "x": 89, "y": 38, "z": 700 },
+      "positionMm": { "x": -520, "y": 350, "z": -260 },
+      "rotationDeg": { "x": 0, "y": 0, "z": 0 },
+      "quantity": 1
+    },
+    {
+      "id": "demo-leg-2",
+      "name": "脚2",
+      "materialId": "2x4",
+      "sizeMm": { "x": 89, "y": 38, "z": 700 },
+      "positionMm": { "x": 520, "y": 350, "z": -260 },
+      "rotationDeg": { "x": 0, "y": 0, "z": 0 },
+      "quantity": 1
+    }
+  ]
+}
