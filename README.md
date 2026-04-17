@@ -109,3 +109,6 @@ npm run preview    # ビルド確認
 
 詳細は `docs/HANDOFF_JA.md` を参照してください。
 
+
+
+実装手順の詳細: `docs/IMPLEMENT_IN_THIS_SCREEN_JA.md`
